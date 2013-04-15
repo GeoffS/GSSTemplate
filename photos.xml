@@ -1,0 +1,26 @@
+<photos>
+	<photo>
+		<name>IMG_6197_screen</name>
+		<photographer>GeoffSobering</photographer>
+		<height>650</height>
+		<width>867</width>
+		<shortCaption></shortCaption>
+		<caption>Sed iaculis dictum leo, ultrices porttitor quam imperdiet a. Pellentesque quis ultrices massa. </caption>
+	</photo>
+	<photo>
+		<name>IMG_6801_screen</name>
+		<photographer>GeoffSobering</photographer>
+		<height>506</height>
+		<width>900</width>
+		<shortCaption></shortCaption>
+		<caption> Aenean et varius justo. Nam vitae tellus justo. </caption>
+	</photo>
+	<photo>
+		<name>IMG_3755_650x650</name>
+		<photographer>GeoffSobering</photographer>
+		<height>650</height>
+		<width>650</width>
+		<shortCaption>Short Caption Lorem ipsum dolor sit amet</shortCaption>
+		<caption>Aliquam volutpat, risus sed vestibulum tincidunt, metus purus sollicitudin mauris, sed mollis lorem nisi sed nulla.</caption>
+	</photo>
+</photos>
